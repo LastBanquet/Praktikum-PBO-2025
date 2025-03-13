@@ -50,7 +50,7 @@ public class DiskonTotalBelanja {
                 diskonTambahan = 0.00;
                 break;
             default:
-                System.out.println("Error: Tipe member tidak valid!");
+                System.out.println("Error: Tipe Keanggotaan tidak valid!");
                 return;
         }
 
