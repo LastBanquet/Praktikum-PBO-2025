@@ -6,7 +6,7 @@ Kemungkinan besar saya akan mengubah nama reponya nanti
 
 19/3/25 PraktikumPBO_Week2 -> Praktikum PBO 2025
 
-Week 1
+Week 1 Pengantar
 Week 2
 Week 3 Control Flow
 Week 4
