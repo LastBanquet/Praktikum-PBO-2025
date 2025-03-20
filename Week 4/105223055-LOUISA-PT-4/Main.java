@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         // Membuat objek Mobil
         Mobil nissan = new Mobil("B 1234 ABC", "Nissan Grand Livina", 750000);
-        Mobil xenia = new Mobil("B 5678 DEF", "Suzuki Ertiga", 480000);
+        Mobil suzuki = new Mobil("B 5678 DEF", "Suzuki Ertiga", 480000);
 
         // Membuat objek Pelanggan
         // Karena soal tidak menyebutkan bahwa data harus diinput dari pengguna,
@@ -12,13 +12,13 @@ public class Main {
 
         System.out.println("Daftar Mobil");
         nissan.tampilkan();
-        xenia.tampilkan();
+        suzuki.tampilkan();
 
         Sewa transaksi1 = new Sewa(rube, nissan, 6);
         transaksi1.prosesSewa();
 
         System.out.println("Daftar Mobil Setelah Transaksi");
         nissan.tampilkan();
-        xenia.tampilkan();
+        suzuki.tampilkan();
     }
 }
