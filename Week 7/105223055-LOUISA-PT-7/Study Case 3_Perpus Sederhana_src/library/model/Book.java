@@ -1,6 +1,6 @@
 package library.model;
 
-    //Buat Atribut dari class Book
+//Buat Atribut dari class Book
 public class Book {
     private String title;
     private String author;
