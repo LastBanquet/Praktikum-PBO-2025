@@ -1,5 +1,3 @@
-package Praktikum;
-
 class Kendaraan { //SC
     String merek ="Toyota";
 
