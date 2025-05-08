@@ -1,5 +1,3 @@
-package Praktikum;
-
 class Hewan {
     String suara = "Suara kelas Hewan";
 
